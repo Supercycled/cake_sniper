@@ -1,0 +1,14 @@
+[
+  {
+    "name": "address_to_monitor_1",
+    "addr": "0xBf66A7848f96a7dddeC6140d1CaA8eddFFE0DeaB"
+  },
+  {
+    "name": "address_to_monitor_2",
+    "addr": "0xcdb74F11592b66c2858f1d51ad7C87ba7b00fe897"
+  },
+  {
+    "name": "wault address_to_monitor_3",
+    "addr": "0x9D620e8574D30c89Ee01EeFDA194d52ad9759aB5"
+  }
+]
